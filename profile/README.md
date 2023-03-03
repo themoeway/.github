@@ -1,6 +1,6 @@
 ## Get Involved
 
-Join our discord server and let's start learning Japanese. With the help of the [30 Day Japanese](https://learnjapanese.moe/routine/)m you'll learn Japanese from scratch with the immersion method. 
+Join our discord server and let's start learning Japanese. With the help of the [30 Day Japanese](https://learnjapanese.moe/routine/) you'll learn Japanese from scratch with the immersion method. 
 
 What you'll expect to know at the end of the 30 days:
 
