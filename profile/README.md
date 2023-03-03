@@ -1,3 +1,13 @@
+## Contributions are welcome
+
+We are looking to have a collection of community projects originating from TheMoeWay. These projects aim to enhance the learning experience of immersion in Japanese. Be it more efficient tools to mine, more custimizability for yomichan/anki/textractor/etc. or immersion resources.
+If you are willing to contribute, please make sure to meet following criteria:
+
+- Being a member of this organization. 
+- Your repo containing everyting required to modify and test the code as if you were working on it from your original project directory.
+
+Follow [Transferring a repository owned by your personal account](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) to contribute your repo.
+
 ## Get Involved
 
 Join our discord server and let's start learning Japanese. With the help of the [30 Day Japanese](https://learnjapanese.moe/routine/) you'll learn Japanese from scratch with the immersion method. 
