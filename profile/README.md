@@ -1,6 +1,6 @@
 # Contributions are welcome!
 
-We are looking to have a collection of community projects originating from TheMoeWay. These projects aim to enhance the learning experience of immersing in Japanese. Be it more efficient tools to mine, more customizability for yomichan/anki/textractor/addons/etc. or immersion resources.
+We are looking to have a collection of community projects originating from TheMoeWay. These projects aim to enhance the learning experience of immersing in Japanese. Be it more efficient tools to mine or more customizability for yomichan/anki/textractor/addons/etc
 
 If you are willing to contribute, please make sure to meet following criteria:
 
