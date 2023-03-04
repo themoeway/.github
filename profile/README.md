@@ -4,7 +4,7 @@ We are looking to have a collection of community projects originating from TheMo
 
 If you are willing to contribute, please make sure to meet following criteria:
 
-- Being a member of this organization. 
+- Being a member of this organization. (DM me on discord Timm#3250)
 - Your repo containing everyting required to modify and test the code as if you were working on it from your original project directory.
 
 Follow [Transferring a repository owned by your personal account](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) to contribute your repo.
