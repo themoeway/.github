@@ -1,11 +1,6 @@
 # Contributions are welcome!
 
-We are looking to have a collection of community projects originating from TheMoeWay. These projects aim to enhance the learning experience of immersing in Japanese. Be it more efficient tools to mine or more customizability for yomichan/anki/textractor/addons/etc
-
-If you are willing to contribute, please make sure to meet following criteria:
-
-- Being a member of this organization. (DM/ping me on discord Timm#3250)
-- Your repo contains everything required to modify and test the code as if you were working on it from your original project directory.
+We are looking to have a collection of community projects originating from TheMoeWay. These projects aim to enhance the learning experience of immersing in Japanese. Be it more efficient tools to mine or more customizability for yomitan/anki/textractor/addons/etc
 
 Follow [Transferring a repository owned by your personal account](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) to contribute your repo.
 
